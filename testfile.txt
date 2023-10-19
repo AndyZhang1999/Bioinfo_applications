@@ -1,0 +1,2 @@
+Number	Accession	A's	G's	C's	T's	N's	Length	GC%	
+1	101M:A:sequence	5	2	1	2	1	11	30.0%	
