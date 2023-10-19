@@ -51,5 +51,4 @@ This project is licensed under Yicheng Zhang
 
 ## Acknowledgments
 
-* Code reference from Assignment 2 prompt (https://northeastern.instructure.com/courses/89591/pages/assignment-2)
 * README.md template & raw markdown from https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
