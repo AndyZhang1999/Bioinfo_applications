@@ -1,4 +1,4 @@
-# BINF6200 ASSIGNMENT3
+# Binf gene searching applications
 ### Prerequest for checking the program
 * As long as it is a PC with Python installed
 
