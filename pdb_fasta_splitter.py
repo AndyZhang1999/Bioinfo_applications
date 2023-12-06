@@ -15,7 +15,6 @@ FLAG_1 = 0
 # pylint:disable=global-statement
 # pylint:disable=line-too-long
 
-
 def get_fh(file, mode):
     """
     Check if the file is avaliable and if the mode is correct
