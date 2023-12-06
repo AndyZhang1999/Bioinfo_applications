@@ -3,7 +3,6 @@
 import sys
 import math
 
-
 #  In this program, I used '\' in print to avoid line-to-long
 def main():
     """Business Logic"""
