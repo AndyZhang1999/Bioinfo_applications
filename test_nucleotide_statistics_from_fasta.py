@@ -2,7 +2,6 @@
 This is the test script for the nucleotide_statistics_from_fasta.py
 This program called test_nucleotide_statistics_from_fasta.py
 """
-
 import pytest
 
 from nucleotide_statistics_from_fasta import get_fh, get_header_and_sequence_lists, _check_size_of_lists,\
