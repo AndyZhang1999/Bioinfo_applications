@@ -1,4 +1,4 @@
-# Binf gene searching applications
+# Gene expression matching applications
 ### Prerequest for checking the program
 * As long as it is a PC with Python installed
 
@@ -42,13 +42,4 @@ zhang.yicheng@northeastern.edu
 
 ## Version History
 
-* use Python 3.9
-* Initial Release
-
-## License
-
-This project is licensed under Yicheng Zhang
-
-## Acknowledgments
-
-* README.md template & raw markdown from https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc
+* Python 3.9
