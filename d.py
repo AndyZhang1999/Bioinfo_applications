@@ -14,7 +14,6 @@ test_dd = {'1.1': [1, 'test line 1.'], '1.2': [1, 'test line 2).']}
 list9 = [1, 2, 3, 1, 2, 3]
 list1 = [1, 2, 5, 6, 7]
 
-
 def test_existing_get_fh_4_reading():
     #_create_test_file(FILE_2_TEST)
     test1 = get_fh(file='testfile3.txt', mode="r")
