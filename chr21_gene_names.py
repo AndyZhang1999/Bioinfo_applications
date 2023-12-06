@@ -14,7 +14,6 @@ from assignment4.my_io import get_fh
 # pylint:disable=global-statement
 FLAG_1 = 1
 
-
 def get_cli_args():
     """
      Just get the command line options using argparse
