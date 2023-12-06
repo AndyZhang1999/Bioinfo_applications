@@ -14,7 +14,6 @@ from assignment4.my_io import get_fh
 # in order to make sure the code can run or it will return
 # 'ValueError: too many values to unpack'
 
-
 def get_cli_args():
     """
      Just get the command line options using argparse
