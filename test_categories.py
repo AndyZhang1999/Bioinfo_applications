@@ -17,7 +17,6 @@ TEST_DD = {'1.1': [1, 'test line 1.'], '1.2': [1, 'test line 2).']}
 STRING_1 = """TPTE\ttensin.\t1.1\nCYC1LP4\tcytochrome\t5\n"""
 STRING_2 = """1.1\tGenes\n1.2\tDNAs\n"""
 
-
 def test_get_list_infile1():
     """Check the list"""
     # Open the file
