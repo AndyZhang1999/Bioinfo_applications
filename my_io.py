@@ -3,7 +3,6 @@ import os
 from assignment5.config import get_error_string_4_opening_file_OSError, \
     get_error_string_4_ValueError, get_error_string_4_TypeError
 
-
 def get_fh(file=None, mode=None):
     """
       filehandle : get_fh(infile, "r")
