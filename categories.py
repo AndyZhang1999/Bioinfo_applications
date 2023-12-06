@@ -9,7 +9,6 @@ import argparse
 import os
 from collections import defaultdict
 from assignment4.my_io import get_fh
-
 # pylint:disable=unused-variable
 # I have to disable the 'unused-variable'
 # in order to make sure the code can run or it will return
